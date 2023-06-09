@@ -1,3 +1,4 @@
+<?php 
 
 function Resources() {
 
@@ -33,3 +34,5 @@ function Resources() {
 }
 
 add_action( 'init', 'Resources' );
+
+?>
